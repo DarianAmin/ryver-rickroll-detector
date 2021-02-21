@@ -35,6 +35,6 @@ $ python -m pip install requests
 ```
 
 ### Adding your Ryver login
-In the `main.py` file, you'll need to replace `Org_Name`, `Username`, and `Password` with their respective values.
+In the `main.py` file, you'll need to replace `Org_Name`, `Username`,`Forum_Name` and `Password` with their respective values.
 
 For example, if you typically log into Ryver at `acme.ryver.com` with the username `important_ceo` and the password `password123`, these three values will be `acme`, `important_ceo`, and `password123` respectively.
